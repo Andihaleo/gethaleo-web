@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9GJU96KAN7.com.andi0980.halo"],
+        "components": [
+          { "/": "/f/*", "comment": "Freund-Einladung: oeffnet die App direkt" }
+        ]
+      }
+    ]
+  }
+}
